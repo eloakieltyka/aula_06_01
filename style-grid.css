@@ -1,0 +1,142 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: #8806ce;
+}
+.container {
+    padding: 5px;
+    display:flex;
+    flex-wrap: wrap;
+}
+#h1{
+    justify-content: center
+}
+
+#box1 {
+    background-color: black;
+    width: 200px;
+    height: 200px;
+    border: 3px solid gray;
+}
+
+#box2 {
+    background-color: #8762de;
+    width: 200px;
+    height: 200px;
+    border: 3px solid Gray;
+}
+#box3 {
+    background-color: #bee39e;
+    width: 200px;
+    height: 200px;
+    border: 3px solid Gray;
+}
+#box4 {
+    background-color: #097171;
+    width: 200px;
+    height: 200px;
+    border: 3px solid Gray;
+}
+#box5 {
+    background-color: yellow;
+    width: 200px;
+    height: 200px;
+    border: 3px solid Gray;
+}
+#box6 {
+    background-color: orange;
+    width: 200px;
+    height: 200px;
+    border: 3px solid Gray;
+}
+#box7 {
+    background-color: pink;
+    width: 200px;
+    height: 200px;
+    border: 3px solid Gray;
+}
+#box8 {
+    background-color: Red;
+    width: 200px;
+    height: 200px;
+    border: 3px solid Gray;
+}
+#box9 {
+    background-color: green;
+    width: 200px;
+    height: 200px;
+    border: 3px solid Gray;
+}
+#box10 {
+    background-color: Blue;
+    width: 200px;
+    height: 200px;
+    border: 3px solid Gray;
+}
+#box11 {
+    background-color: Lime;
+    width: 200px;
+    height: 200px;
+    border: 3px solid Gray;
+}
+#box12 {
+    background-color: Salmon;
+    width: 200px;
+    height: 200px;
+    border: 3px solid Gray;
+}
+#box13 {
+    background-color: Turquoise;
+    width: 200px;
+    height: 200px;
+    border: 3px solid Gray;
+}
+#box14 {
+    background-color: Navy Blue;
+    width: 200px;
+    height: 200px;
+    border: 3px solid Gray;
+}
+#box15 {
+    background-color: Crimson;
+    width: 200px;
+    height: 200px;
+    border: 3px solid Gray;
+}
+#box16 {
+    background-color: Indigo;
+    width: 200px;
+    height: 200px;
+    border: 3px solid Gray;
+}
+#box17 {
+    background-color: Teal;
+    width: 200px;
+    height: 200px;
+    border: 3px solid Gray;
+}
+#box18 {
+    background-color: LightBlue;
+    width: 200px;
+    height: 200px;
+    border: 3px solid Gray;
+}
+#box19 {
+    background-color: LightPink;
+    width: 200px;
+    height: 200px;
+    border: 3px solid Gray;
+}
+#box20 {
+    background-color: White;
+    width: 200px;
+    height: 200px;
+    border: 3px solid Gray;
+}
+
+
+
+
